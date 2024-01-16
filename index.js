@@ -1,0 +1,1 @@
+console.log('this is our fake api v3 handler lambda')
